@@ -1,12 +1,12 @@
 Author: Titus Jung (titusjung@gmail.com)
-Start Date: 9/26/2016
+Start Date: 9/12/2016
 Procedure:
 	Plan 2 week sprints
 	Write weekly report on progress on sprint
 
 
 Report Date: 9/12/2016
-	By 9/26/2016 
+	Sprint Target: 9/26/2016 
 	TODO:
 		Basics: 
 			User login/logout/creation
@@ -24,4 +24,3 @@ Report Date: 9/12/2016
 				Name 
 				gravatar
 				list of all lists created
-
