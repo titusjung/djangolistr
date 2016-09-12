@@ -1,0 +1,27 @@
+Author: Titus Jung (titusjung@gmail.com)
+Start Date: 9/26/2016
+Procedure:
+	Plan 2 week sprints
+	Write weekly report on progress on sprint
+
+
+Report Date: 9/12/2016
+	By 9/26/2016 
+	TODO:
+		Basics: 
+			User login/logout/creation
+			Front Page
+				have an index to all lists created sorted by date
+			Simple UI frontpage
+		Features:
+			Create Lists
+			Adding links to lists
+			Lists features:
+				Name title
+				only 5 links
+				link to author
+			Author Profile
+				Name 
+				gravatar
+				list of all lists created
+
