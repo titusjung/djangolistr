@@ -16,9 +16,12 @@ Including another URLconf
 from django.conf.urls import url, include
 from django.contrib import admin
 
+import listapp.urls
 from . import views
 
 urlpatterns = [
     url(r'^$', views.HomeView.as_view(), name='home'),
+    url(r'^', include(listapp.urls)),
+    url(r'^login/',views.LoginView.as_view(),name='login'),
     url(r'^admin/', admin.site.urls),
 ]
